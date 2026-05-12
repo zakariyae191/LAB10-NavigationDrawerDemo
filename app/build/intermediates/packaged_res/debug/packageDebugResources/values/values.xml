@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="purple_500">#3F51B5</color>
+    <color name="purple_700">#303F9F</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">NavigationDrawerDemo</string>
+    <string name="navigation_drawer_close">Fermer le menu de navigation</string>
+    <string name="navigation_drawer_open">Ouvrir le menu de navigation</string>
+    <style name="Theme.NavigationDrawerDemo" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="ThemeOverlay.NavigationDrawerDemo.AppBar" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="ThemeOverlay.NavigationDrawerDemo.Popup" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_500
+color purple_700
+color teal_200
+color white
+drawable ic_dashboard
+drawable ic_home
+drawable ic_launcher_background
+drawable ic_list
+id app_bar_main
+id contenu
+id drawer_layout
+id nav_fragment1
+id nav_fragment2
+id nav_list
+id nav_view
+id toolbar
+layout activity_main
+layout app_bar_main
+layout content_main
+layout fragment_blank
+layout fragment_blank2
+layout nav_header_main
+menu activity_main_drawer
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string navigation_drawer_close
+string navigation_drawer_open
+style ThemeOverlay.NavigationDrawerDemo.AppBar
+style ThemeOverlay.NavigationDrawerDemo.Popup
+style Theme.NavigationDrawerDemo
