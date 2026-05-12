@@ -1,5 +1,8 @@
 # NavigationDrawerDemo
 
+https://github.com/user-attachments/assets/6ac11313-e326-43d1-a021-73b2d0672844
+
+
 ## Objectif
 
 Le but de ce TP est de créer une application Android qui utilise un Navigation Drawer et des fragments.
@@ -57,15 +60,7 @@ FragmentList hérite de ListFragment et affiche 10 éléments simples avec un Ar
 - Fragment 2 affiche un fond bleu.
 - Fragment List affiche une liste d'éléments.
 
-## Captures d’écran
 
-![Menu Navigation Drawer](screenshots/drawer.png)
-
-![Fragment 1](screenshots/fragment1.png)
-
-![Fragment 2](screenshots/fragment2.png)
-
-![Fragment List](screenshots/list.png)
 
 ## Conclusion
 
